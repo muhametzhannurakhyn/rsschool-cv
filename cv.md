@@ -1,42 +1,22 @@
-# Это самый крупный заголовок, он превращается в тег <h1>
-## <h2>
-### <h3>
+# Muhanetzhan Nurakhyn
+## Contacts
+### 
 #### <h4>
 ##### <h5>
 ###### <h6>
 
+* **Location:** Astana, Kazhackstan
+* **Phone:** +46 76 219 5209
+* **Email:** nurakhyn04@gmail.com
+* **GitHub:** muhametzhannurakhyn
 
-> Это мудрая цитата
-> Мудрого человека.
+## About Me
 
+I have communication skills, excel in teamwork and have great enthusiasm in acquiring and honing new skills. Among the strengths I can name perseverance and the desire for new things
 
-```javascript
-const func = (num) => {
-  if (num > 0) {
-    return num - 1;
-  }
-  return num + 1;
-};
-```
+## Skills
 
-
-* Пункт
-* Еще один пункт
-  * Подпункт
-  * Еще один подпункт
-
-
-  1. Пункт
-1. Еще один пункт
-  1. Подпункт
-  1. Еще один подпункт
-
-
-
-*Этот текст будет наклонным (курсив)*
-_Этот текст будет наклонным (курсив)_
-
-**Этот текст будет жирным**
-__Этот текст будет жирным__
-
-_Можно **вставлять** один тип в другой_
+* HTML
+* CSS
+* JavaScript (Basic)
+* Git
