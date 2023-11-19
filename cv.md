@@ -20,3 +20,21 @@ I have communication skills, excel in teamwork and have great enthusiasm in acqu
 * CSS
 * JavaScript (Basic)
 * Git
+
+## Code Example
+
+```javascript
+function multiply(a, b){
+  a * b
+  return a * b;
+}
+
+```
+## Experience
+
+## Education
+* **University, L.N. Gumilyov Eurasian National University,Astana**
+    * **Specialization:** Space technology and technology.
+
+## English
+**A2** English - Intermediate
