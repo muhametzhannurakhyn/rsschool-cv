@@ -36,5 +36,8 @@ function multiply(a, b){
 * **University, L.N. Gumilyov Eurasian National University,Astana**
     * **Specialization:** Space technology and technology.
 
-## English
-**A2** English - Intermediate
+## Languages
+* **B1** English - Intermediate
+* Kazah 
+* Russian
+* Turkish
